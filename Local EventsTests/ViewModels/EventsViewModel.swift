@@ -8,6 +8,7 @@
 import Foundation
 import Local_Events
 
+
 class EventsViewModel {
     
     enum State {

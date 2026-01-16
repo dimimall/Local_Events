@@ -8,6 +8,7 @@
 import XCTest
 import Local_Events
 
+
 final class Local_EventsTests: XCTestCase {
 
     func test_load_success_withEvents() {
